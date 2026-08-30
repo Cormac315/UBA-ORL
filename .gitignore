@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and credentials
+.env
+.venv/
+venv/
+*.pem
+*.key
+
+# Experiment outputs
+results/
+logs/
+experiment_logs/
+weak_agents/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.npz
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
+*.swp

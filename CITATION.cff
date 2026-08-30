@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "UBA-ORL: Unlearning-Activated Backdoor Attacks on Offline Reinforcement Learning"
+type: software
+repository-code: "https://github.com/Cormac315/UBA-ORL"
+authors:
+  - family-names: Wang
+    given-names: Fengyi
+  - family-names: Li
+    given-names: Cong
+  - family-names: Xue
+    given-names: Lulu
+  - family-names: Leng
+    given-names: Qiyu
+  - family-names: Zhou
+    given-names: Ziqi
+  - family-names: Guo
+    given-names: Peijin
+date-released: 2026-08-30
+preferred-citation:
+  type: conference-paper
+  title: "UBA-ORL: Unlearning-Activated Backdoor Attacks on Offline Reinforcement Learning"
+  authors:
+    - family-names: Wang
+      given-names: Fengyi
+    - family-names: Li
+      given-names: Cong
+    - family-names: Xue
+      given-names: Lulu
+    - family-names: Leng
+      given-names: Qiyu
+    - family-names: Zhou
+      given-names: Ziqi
+    - family-names: Guo
+      given-names: Peijin
+  collection-title: "2026 IEEE International Conference on Data Mining (ICDM)"
+  year: 2026

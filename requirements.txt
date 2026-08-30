@@ -1,0 +1,8 @@
+d3rlpy==1.0.0
+torch==2.10.0
+numpy==1.26.4
+gym==0.22.0
+mujoco-py==2.1.2.14
+Cython==0.29.36
+patchelf==0.17.2.1
+d4rl @ git+https://github.com/Farama-Foundation/D4RL.git@71a9549f2091accff93eeff68f1f3ab2c0e0a288
